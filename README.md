@@ -1,39 +1,37 @@
 # System Settings
 [我们这里也有简体中文版本](https://github.com/Zhuangjiunanp/General-Settings/blob/main/README-zh_hans.md)
-本项目目前处于 **Alpha** 阶段，正在积极开发中。请注意，某些功能可能仍在调整或测试阶段，未来会有更多更新和改进。
+This project is currently in progress **Alpha** Stage, actively under development. Please note that some features may still be in the adjustment or testing phase, and there will be more updates and improvements in the future.
 
-## 功能概述
+## Functional Overview
 
-- **下载管理器**：用于管理和优化文件下载，支持自动下载、队列管理、暂停和恢复等功能。当前版本正在逐步完善。
-- **未来方向**：计划增加更多功能，包括：
-  - 高级下载选项（如断点续传）
-  - 更强的文件分类和标签支持
-  - 更好的错误处理与日志记录功能
+- **Download manager**: Used for managing and optimizing file downloads, supporting automatic downloads, queue management, pause and resume functions, etc. The current version is gradually being improved.
+- **未来方向**：We plan to add more features, including:
+-Advanced download options (such as breakpoint resume)
+-Stronger file classification and labeling support
+-Better error handling and logging capabilities
 
-## 配置说明
+## Configuration Instructions
+The current configuration items do not include but are not limited to the following:
 
-当前配置项包括但不限于以下几项：
+- **Download Path**：Custom file save location.
+- **Concurrent downloads**：Set the number of files to be downloaded simultaneously.
+- **automatic retry**：The number of automatic retries when the download fails.
 
-- **下载路径**：自定义文件保存位置。
-- **并发下载数**：设置同时下载的文件数目。
-- **自动重试**：当下载失败时，自动重试次数。
+More settings will be introduced in future versions.
+## Donation support
 
-更多设置将在未来版本中推出。
+If you enjoy this project and would like to support its development, please feel free to donate through the following methods:
 
-## 捐款支持
+[Not found](#)
 
-如果你喜欢这个项目，并希望支持其开发，欢迎通过以下方式进行捐款：
+Please note that donations are entirely voluntary and will be used for the continuous development and optimization of the project.
 
-[捐款链接（没有实现）](#)
+## Current status
 
-请注意，捐款完全是自愿的，捐款将用于项目的持续开发与优化。
-
-## 当前状态
-
-- **版本**：1.0.0 Alpha
-- **已知问题**：
-  - 部分高级功能尚未实现
-  - 界面设计仍在优化
-- **已知改进方向**：我们正在积极倾听社区反馈，未来版本将持续改进体验。
-
-感谢您的支持和理解！
+- **version**：1.0.0 Alpha
+- **Known issues**：
+  - Some advanced features have not been implemented yet
+- Holo interface design is still under development
+- **Known improvement direction**：We are actively listening to community feedback and will continue to improve the experience in future versions.
+ 
+ Thank you for your support and understanding!
